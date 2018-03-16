@@ -80,7 +80,9 @@ Github地址：https://github.com/FlickerMi/sexful-typecho
 
 ## 声明
 
-主题原作者是`Ray`，原网站为：http://iyanlei.com，但该网站已不能正常访问，作者现在的网站是：http://misray.com
+主题原作者是`Ray`，原网站为：http://iyanlei.com
+
+但该网站已不能正常访问，作者现在的网站是：http://misray.com
 
 我只是主题的修改者！！！
 
