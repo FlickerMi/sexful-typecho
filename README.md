@@ -86,6 +86,8 @@ Github地址：https://github.com/FlickerMi/sexful-typecho
 
 我只是主题的修改者！！！
 
+主题中可能还有一些个人信息，请自行修改。
+
 ## 截图
 
 首页：
